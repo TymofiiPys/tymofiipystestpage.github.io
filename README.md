@@ -1,2 +1,2 @@
-# tymofiipystest228420.github.io
+# tymofiipystestpage.github.io
 for rclone
